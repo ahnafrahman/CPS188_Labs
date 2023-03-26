@@ -1,0 +1,10 @@
+121.211.171.34 dumbledore
+21.67.43.78 spiderman
+56.89.12.122 gandalf
+67.109.113.215 zeus
+21.67.43.79 wonderwoman
+67.109.124.3 aprhodite
+121.211.104.23 hermione
+56.89.177.171 mirkwood
+100.200.100.100 einstein
+0.0.0.0 sentinel
